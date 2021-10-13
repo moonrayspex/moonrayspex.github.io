@@ -1,5 +1,6 @@
 title {
-    font-family: 'Gill Sans';
+    /*Consulted Mozilla docs: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family ; https://www.w3schools.com/css/default.asp  */
+    font-family: "Gill Sans", sans-serif;
     font-size: 20px; 
 }
 body {
@@ -9,12 +10,12 @@ h1 {
 
 }
 p {
-    font-family: 'Gill Sans';
+    font-family: "Gill Sans", sans-serif;
     font-size: 14px; 
 } 
 
 footer {
-    font-family :Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;
+    font-family : "Gill Sans", sans-serif;
     font-size: 18px;
     color: #555;
     padding: 2rem 0;
