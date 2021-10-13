@@ -1,5 +1,6 @@
 title {
-    
+    font-family: 'Gill Sans';
+    font-size: 20px; 
 }
 body {
 
@@ -7,6 +8,24 @@ body {
 h1 {
 
 }
-p{
+p {
     
+} 
+
+footer {
+    font-family :Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;
+    font-size: 18px;
+    color: #555;
+    padding: 2rem 0;
+    max-width: 800px;
+    
+    display: block;
+    margin: 0 auto;
+    max-width: 800px;
+
+    box-sizing: border-box;
+    line-height: 1.5;
+
 }
+
+  
