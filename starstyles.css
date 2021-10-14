@@ -1,6 +1,44 @@
+.menu {
+    width: 100%;
+    border-bottom: 1px solid rgb(55, 122, 55);
+    box-sizing: border-box;
+    padding: 25px 16px;
+}
 
+.site-title {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    max-width: 50%;
+    display: inline-block;
+}
+
+.nav-bar {
+    display: inline;
+}
+
+.nav-link {
+    float: right;
+    margin-top: 11px;
+    font-size:  16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
 body {
+    padding: 0;
+    margin: 0;
+}
 
+.left {
+    float: left;
+    width: 50%;
+    padding: 24px;
+}
+
+.right {
+    float: right;
+    width: 50%;
+    padding: 24px;
 }
 h1 {
     /*Consulted Mozilla docs: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family ; https://www.w3schools.com/css/default.asp  */
@@ -18,7 +56,10 @@ p {
     font-size: 14px; 
 } 
 
-footer {
+.body {
+    display: flex;
+}
+.footer {
     font-family :'Courier New', Courier, monospace;
     font-size: 18px;
     color: #555;
