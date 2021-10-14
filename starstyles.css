@@ -2,7 +2,7 @@
     width: 100%;
     border-bottom: 2px dotted lightgray;
     box-sizing: border-box;
-    padding: 25px 200px 175px;
+    padding: 25px 200px 25px 175px;
 }
 
 .site-title {
