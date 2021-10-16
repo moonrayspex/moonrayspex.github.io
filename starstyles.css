@@ -102,6 +102,15 @@ h3 {
     width: 90%;
 }
 
+h4 {
+    font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    font-size: 18px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
 .home-text {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-size: 16px; 
@@ -120,14 +129,16 @@ h3 {
     width: 90%;
 }
 
-li {
+li {  
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-size: 16px; 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
+    padding-bottom: 5px;
 }
+
 .body {
     display: flex;
 }
