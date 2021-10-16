@@ -146,16 +146,14 @@ li {
     font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-size: 18px;
     color: #555;
-    padding: 2rem 0;
-    max-width: 800px;
-    
-    display: block;
+    max-width: 50%;
+    display: inline-block;
+    /*
     margin: 0 auto;
-    max-width: 800px;
-
     box-sizing: border-box;
     line-height: 1.5;
-
+*/
+  
 }
 
   
