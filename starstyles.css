@@ -40,6 +40,10 @@
     padding: 0;*/
 }
 
+.nav-link li a:hover {
+    background-color: #111;
+}
+
 .linkin-link li {
     float: right;
     padding: 10px;
@@ -49,6 +53,10 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-weight: bolder;
     list-style-type: none;
+}
+
+.linkin-link li a:hover {
+    background-color: #111;
 }
 
 .twit-link li {
@@ -61,6 +69,11 @@
     font-weight: bolder;
     list-style-type: none;
 }
+
+.twit-link li a:hover {
+    background-color: #111;
+}
+
 body {
     padding: 0;
     margin: 0;
