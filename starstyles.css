@@ -30,7 +30,7 @@
 .nav-link a:hover {
     background-color: #111;
   }
-  
+
 .nav-link li {
     float: right;
     padding: 10px;
@@ -181,6 +181,8 @@ li {
     color: #555;
     max-width: 50%;
     display: inline-block;
+    float: left;
+    padding-left: 175px;
     /*
     margin: 0 auto;
     box-sizing: border-box;
