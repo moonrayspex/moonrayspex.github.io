@@ -16,7 +16,7 @@
 .nav-bar {
     display: inline;
 }
-/*  Was used, but then made ul/li.
+
 .nav-link {
     float: right;
     padding: 10px;
@@ -26,7 +26,11 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-weight: bolder;
 }
-*/
+
+.nav-link a:hover {
+    background-color: #111;
+  }
+  
 .nav-link li {
     float: right;
     padding: 10px;
