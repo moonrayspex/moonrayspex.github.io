@@ -31,7 +31,7 @@
     background-color: #111;
   }
 
-.nav-link li {
+.nav-link ul {
     float: right;
     padding: 10px;
     color: #555;
@@ -44,11 +44,11 @@
     padding: 0;*/
 }
 
-.nav-link li a:hover {
+.nav-link ul a:hover {
     background-color: #111;
 }
 
-.linkin-link li {
+.linkin-link ul {
     float: right;
     padding: 10px;
     color: #555;
@@ -59,11 +59,11 @@
     list-style-type: none;
 }
 
-.linkin-link li a:hover {
+.linkin-link ul a:hover {
     background-color: #111;
 }
 
-.twit-link li {
+.twit-link ul {
     float: right;
     padding: 10px;
     color: #555;
@@ -74,7 +74,7 @@
     list-style-type: none;
 }
 
-.twit-link li a:hover {
+.twit-link ul a:hover {
     background-color: #111;
 }
 
