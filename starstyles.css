@@ -21,38 +21,42 @@
     display: inline-block;
   
 }
-
+/*
 .nav-bar {
     /*https://www.w3schools.com/cssref/pr_class_display.asp*/
-    display: inline;
+ /*   display: inline;
 }
+*/
 
 /*originally, i didn't have the .nav classes in UL LI, but I read the rubric stating the nav had to be in an UL LI, so I changed it. https://www.w3schools.com/css/css_navbar.asp */
 /*I used w3schools to do the UL LIs https://www.w3schools.com/tags/tag_ul.asp*/
 
 
-
+/*NAV-BAR contains three links on Resume page. Links are nested in UL LI.*/
+/*
 .nav-bar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-.nav-bar ul {
+.nav-bar ul li{
   float: right;
 }
 
-.nav-bar ul {
+.nav-bar ul li >a {
   display: block;
   padding: 16px;
   color: #555;
   font-size:  16px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-  font-weight: bolder;
+  font-weight: normal;
 }
+*/
 
-/*
+
 .nav-bar {
+    display: inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -70,11 +74,8 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-weight: bolder;
 }
-*/
 
-
-
-
+/*styles RESUME link and HOME link - on both pages*/
 .nav-link {
     float: right;
     padding: 10px;
