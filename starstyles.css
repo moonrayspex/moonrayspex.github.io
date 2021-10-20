@@ -38,11 +38,11 @@
   padding: 0;
 }
 
-.nav-bar ul li {
+.nav-bar ul {
   float: right;
 }
 
-.nav-bar ul li > a {
+.nav-bar ul {
   display: block;
   padding: 16px;
   color: #555;
