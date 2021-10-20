@@ -19,7 +19,7 @@
     font-weight: bolder;
     max-width: 50%;
     display: inline-block;
- 
+  
 }
 
 .nav-bar {
@@ -29,6 +29,29 @@
 
 /*originally, i didn't have the .nav classes in UL LI, but I read the rubric stating the nav had to be in an UL LI, so I changed it. https://www.w3schools.com/css/css_navbar.asp */
 /*I used w3schools to do the UL LIs https://www.w3schools.com/tags/tag_ul.asp*/
+
+
+
+.nav-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar ul li {
+  float: right;
+}
+
+.nav-bar ul li > a {
+  display: block;
+  padding: 16px;
+  color: #555;
+  font-size:  16px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+  font-weight: bolder;
+}
+
+/*
 .nav-bar {
     list-style-type: none;
     margin: 0;
@@ -47,6 +70,10 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-weight: bolder;
 }
+*/
+
+
+
 
 .nav-link {
     float: right;
@@ -59,7 +86,7 @@
 }
 
 .nav-link a:hover {
-    /*i remembered hover from my old job years ago.  always liked a nice hover. https://www.w3schools.com/cssref/sel_hover.asp*/
+    /* always liked a nice hover. https://www.w3schools.com/cssref/sel_hover.asp*/
     background-color: #111;
   }
 
