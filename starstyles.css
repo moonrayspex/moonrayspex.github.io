@@ -29,17 +29,17 @@
 
 /*originally, i didn't have the .nav classes in UL LI, but I read the rubric stating the nav had to be in an UL LI, so I changed it. https://www.w3schools.com/css/css_navbar.asp */
 /*I used w3schools to do the UL LIs https://www.w3schools.com/tags/tag_ul.asp*/
-.nav-bar ul {
+.nav-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-.nav-bar ul li {
+.nav-bar {
     float: right;
 }
 
-.nav-bar ul li >a {
+.nav-bar {
     display: block;
     padding: 16px;
     color: #555;
