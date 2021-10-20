@@ -2,96 +2,59 @@
 /*w3schools was extensively consulted for elements on page */
 
 /*I used inspect element A LOT to adjust css elements on page before placing in my stylesheet and committing to git. */
+/*https://www.w3schools.com/cssref/pr_dim_width.asp */
+ /*I had to play around a lot with the padding and height */
 .menu {
     width: 100%;
-    /*https://www.w3schools.com/cssref/pr_dim_width.asp */
     border-bottom: 2px dotted lightgray;
     box-sizing: border-box;
- /*I had to play around a lot with the padding and height */
     padding: 25px 200px 25px 175px;
     height: 110px;
-}
-
+ }  
+ /* increased height in .menu to account for padding within navbar anchors */
+  /*i had to manually adjust all the font sizes to override auto settings and make sure they fit the H1-h4 hierarchy, visually*/
 .site-title {
-    /*i had to manually adjust all the font sizes to override auto settings and make sure they fit the H1-h4 hierarchy, visually*/
     font-size: 26px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
     font-weight: bolder;
     max-width: 50%;
     display: inline-block;
-  
+    float: left;
 }
-/*
+/*NAV-BAR contains three links on Resume page. Links are nested in UL LI.*/
+/* takes display block and makes it inline to sit beside the H1 / site title */
 .nav-bar {
-    /*https://www.w3schools.com/cssref/pr_class_display.asp*/
- /*   display: inline;
+    display: inline;
 }
-*/
-
 /*originally, i didn't have the .nav classes in UL LI, but I read the rubric stating the nav had to be in an UL LI, so I changed it. https://www.w3schools.com/css/css_navbar.asp */
 /*I used w3schools to do the UL LIs https://www.w3schools.com/tags/tag_ul.asp*/
-
-
-/*NAV-BAR contains three links on Resume page. Links are nested in UL LI.*/
-/*
+/* makes UL list not have default styling applied */
 .nav-bar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
-.nav-bar ul li{
+/* makes all of the links float right */
+.nav-bar ul li {
   float: right;
 }
 
-.nav-bar ul li >a {
+/* this styles anchor tags within the navbar. makes anchor a block element with padding, so clickabl area is larger.  */
+.nav-bar ul li > a {
   display: block;
   padding: 16px;
   color: #555;
   font-size:  16px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-  font-weight: normal;
+  font-weight: bolder;
 }
-*/
-
-/*
-.nav-bar {
-    display: inline;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-*/
-.nav-bar {
-    float: right;
-}
-
-.nav-bar {
-    display: block;
-    padding: 16px;
-    color: #555;
-    font-size:  16px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-weight: bolder;
-}
-
-/*styles RESUME link and HOME link - on both pages*/
-.nav-link {
-    float: right;
-    padding: 10px;
-    color: #555;
-    margin-top: 11px;
-    font-size:  16px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-weight: bolder;
-}
-
+/* always liked a nice hover. https://www.w3schools.com/cssref/sel_hover.asp*/
 .nav-link a:hover {
-    /* always liked a nice hover. https://www.w3schools.com/cssref/sel_hover.asp*/
     background-color: #111;
   }
 
-/*
+  /* probably not needed: */
+  /*  
 .nav-link ul {
     float: right;
     padding: 10px;
@@ -149,11 +112,10 @@ body {
     width: 50%;
     padding: 24px;
 }
-
+  /*I use the same class for both images.  I learned about border radius from w3schools: https://www.w3schools.com/cssref/css3_pr_border-radius.asp*/
+   /*I set the  margins to auto so that the image would float in the centre of the block.  I also defined the max width both in terms of % and px.  I chose to do that so that as a consideration for rendering on really big or small monitor / screen sizes.  */
 .home-img {
-    /*I use the same class for both images.  I learned about border radius from w3schools: https://www.w3schools.com/cssref/css3_pr_border-radius.asp*/
     display: block;
-    /*I set the  margins to auto so that the image would float in the centre of the block.  I also defined the max width both in terms of % and px.  I chose to do that so that as a consideration for rendering on really big or small monitor / screen sizes.  */
     margin-left: auto;
     margin-right: auto;
     width: 75%;
@@ -168,22 +130,20 @@ body {
     padding: 24px;
 }
 
- 
 
 
 
-
+ /*Consulted Mozilla docs: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family ; https://www.w3schools.com/tags/tag_hn.asp  */
+/*Once I got an idea of styling, I replicated it a lot and just tweaked the font px to correlate to the right header*/
 
 h1 {
-    /*Consulted Mozilla docs: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family ; https://www.w3schools.com/tags/tag_hn.asp  */
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 26px; 
-     
+    font-size: 26px;
+
 }
-/*Once I got an idea of styling, I replicated it a lot and just tweaked the font px to correlate to the right header*/
 h2 {
     font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 20px; 
+    font-size: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -192,7 +152,7 @@ h2 {
 
 h3 {
     font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 18px; 
+    font-size: 18px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -201,34 +161,39 @@ h3 {
 
 h4 {
     font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 18px; 
+    font-size: 18px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
 }
-/*I styled both text blocks for both pages the same, but put them in different classes so that I can easily change them as the content changes.*/
+
 .home-text {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 18px; 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-} 
-
-.resume-text {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 18px; 
+    font-size: 18px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
 }
+/* realized I needed both UL and LI for styling.  also realized that this should have been in a div rather than a <p>, but this is how it is for now. until i have more time!  */
+.resume-text ul {
+    list-style-type: none;
+}
 
-li {  
+.resume-text li {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
-    font-size: 16px; 
+    font-size: 18px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-bottom: 10px;
+}
+
+.home-text li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    font-size: 16px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -249,12 +214,6 @@ li {
     display: inline-block;
     float: left;
     padding-left: 175px;
-    /*
-    margin: 0 auto;
-    box-sizing: border-box;
-    line-height: 1.5;
-*/
-  
-}
 
-  
+
+}
