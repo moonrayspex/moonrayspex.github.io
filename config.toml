@@ -1,3 +1,38 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MoonRaySpex'
+theme = 'gruvhugo'
+
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  metaKeywords = "gis"
+  headerTitle = "Acorn Maps"
+  copyright = "© 2021 Acorn Maps"
+  name = "moonrayspex"
+  img = "img/canoe.jpg"
+  img_title = ""
+  icon = "img/logo.png"
+  quote = " Geographic Information Specialist, Applications Specialist"
+  description= "Current GIS Applications specialist-in-training. My background in information science and experiences as a manager, inform my approach to the GIS field. I bring intentional communication, strong evaluative and critical thinking skills, and a coach-approach to leadership." 
+  licenseUrl = ""
+
+
+# Social icons
+[[params.social]]
+  name = "email"
+  url  = "mailto:mail@mail.com"
+[[params.social]]
+  name = "gpg"
+  url  = "https://keys.openpgp.org/"
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/"
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/moonrayspex"
+[[params.social]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/"
+
