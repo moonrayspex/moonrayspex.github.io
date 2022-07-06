@@ -26,9 +26,9 @@ theme = 'gruvhugo'
 # [[params.social]]
 #   name = "gpg"
 #   url  = "https://keys.openpgp.org/"
-[[params.social]]
-  name = "twitter"
-  url  = "https://twitter.com/"
+# [[params.social]]
+  # name = "twitter"
+  # url  = "https://twitter.com/"
 [[params.social]]
   name = "github"
   url  = "https://github.com/moonrayspex"
