@@ -1,7 +1,7 @@
 baseURL = 'https://moonrayspex.github.io'
 languageCode = 'en-us'
 title = 'MoonRaySpex'
-theme = 'gruvhugo'
+theme = 'hugo-resume'
 
 
 [params.main]
