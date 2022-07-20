@@ -1,0 +1,27 @@
+[
+    {
+        "grouping":"Technical Expertise",
+        "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+    },{
+        "grouping":"Computer Languages",
+        "skills":[ "Python","SQL","JavaScript","HTML","CSS","JSON APIs"]
+    },
+    {
+        "grouping":"Platform Development & Administration",
+        "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+    },
+    {
+        "grouping":"Data Management",
+        "skills":["PostgreSQL", "FME Workbench", "Oracle SQL Developer", "Relational enterprise database development",
+          {"name":"Microsoft SQL Server","icon":"msql_server"}]
+    },
+    {
+      "grouping":"Cloud Services",
+        "skills":[ 
+            {"name":"ArcGIS Server and Portal Services"},
+            {"name":"AWS","link":"https://aws.amazon.com"},
+            {"name":"Google Cloud","link":"https://cloud.google.com"}
+        ]
+    }
+]
+  

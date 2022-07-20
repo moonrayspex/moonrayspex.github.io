@@ -1,6 +1,6 @@
 baseURL = 'https://moonrayspex.github.io'
 languageCode = 'en-us'
-title = 'MoonRaySpex'
+title = 'Rachel Manderfeld, Portfolio'
 theme = 'hugo-resume'
 
 
@@ -19,20 +19,43 @@ theme = 'hugo-resume'
   licenseUrl = ""
 
 
-# Social icons
-# [[params.social]]
-#   name = "email"
-#   url  = "mailto:mail@mail.com"
-# [[params.social]]
-#   name = "gpg"
-#   url  = "https://keys.openpgp.org/"
-# [[params.social]]
-  # name = "twitter"
-  # url  = "https://twitter.com/"
-[[params.social]]
-  name = "github"
-  url  = "https://github.com/moonrayspex"
-[[params.social]]
-  name = "linkedin"
-  url  = "https://www.linkedin.com/in/rachelmanderfeld/"
 
+
+[params]
+address = "Toronto, ON"
+pronouns = "they / them"
+email = "acornmaps@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Rachel Manderfeld,"
+lastName = "MI"
+profileImage = "img/canoe.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = ""
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/rachelmanderfeld/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/moonrayspex"
+name = "GitHub"
+
+[[params.handles]]
+name = "Twitter"
+link  = "https://twitter.com/AcornMaps"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

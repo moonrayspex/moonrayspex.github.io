@@ -1,0 +1,26 @@
+[
+    {
+        "role":"GIS Specialist",
+        "company":"Kawartha Conservation",
+        "summary":"Through Fleming College, culminating project with Kawartha Conservation.  Delivered GIS-based [Interactive Lake Mapping in the Kawarthas](https://experience.arcgis.com/experience/eede84d872944e15b3cd7f2a3d313ed1/page/About-/). \n- Developed use-cases and project goals with client.\n- Implemented GIS solutions that met goals using a re-iterative process.\n- Built 3D bathymetry maps, data visualizations, user-input capabilities. \n- Leveraged teamwork, solid communication, and cooperation for quick turn-around.",
+        "range":"March - June, 2022"
+    },
+    {
+        "role":"Branch Manager, City Hall Branch",
+        "company":"Toronto Public Library",
+        "summary":"Cultivated a positive and inclusive work environment for staff and patrons. \n- Managed staff of 12 people including creating a thorough on-boarding program for 3 external hires.\n- Increased program delivery and program attendance by 300%.\n- Demonstrated exceptional leadership and emergency response management during crises. \n- Successfully guided staff through organizational and policy changes.",
+        "range":"2019 - 2020"
+    },
+    {
+        "role":"Public Services Librarian",
+        "company":"Toronto Public Library",
+        "summary":"Directly served hundreds of library users in fast-paced environment. \n- Developed and implemented wildly successful STEM and arts-based March Break, summer, and year-long programming for ages 0-5, 6-12, and teens.\n- Created and co-lead highly successful youth creative writing program.\n- Taught computer and tech literacy to adults. \n- Prioritised staff and client safety during high pressure emergencies.",
+        "range":"2014 - 2021"
+    },
+    {
+        "role":"Web Librarian",
+        "company":"Toronto Public Library",
+        "summary":"Led redevelopment of TPL's teen website.  Technical advisor on a nation-wide committee for a Canada-wide reading program's website.\n- Collaborated with designers, web developers and managerial stakeholders.\n- Information management for a database of 2500+ public libraries in Canada.\n- Developed a new, dynamic youth website and migrated data to the new platform.",
+        "range":"2011 - 2014"
+    }
+]
