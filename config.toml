@@ -37,6 +37,7 @@ showPublications = false
 showQr = false
 showSkills = true
 
+
 [params.google]
 
 [params.google.analytics]
