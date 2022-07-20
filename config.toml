@@ -24,7 +24,7 @@ theme = 'hugo-resume'
 [params]
 address = "Toronto, ON"
 pronouns = "they / them"
-email = "acornmaps@gmail.com"
+email = "manderfeld.maps@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Rachel Manderfeld,"
 lastName = "MI"
