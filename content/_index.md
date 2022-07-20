@@ -10,3 +10,4 @@ outputs:
 - json
 ---
 GIS Applications Specialist  ·  Information Management Professional
+I bring intentional communication and strong evaluative and critical thinking skills to the workplace. 
