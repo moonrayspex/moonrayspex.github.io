@@ -1,7 +1,7 @@
 [
     {
         "grouping":"Technical Expertise",
-        "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+        "skills":[ "Esri Suite: ArcEnterprise, ArcServer, ArcGIS Pro, ArcGIS Online, Survey123, Experience Builder & Dashboard","ArcGIS APIs for JavaScript","RESTful APIs","SaaS/PaaS/IaaS"]
     },
     {
         "grouping":"Computer Languages",
@@ -19,10 +19,21 @@
       "grouping":"Cloud Services",
         "skills":[ 
             {"name":"ArcGIS Server and Portal Services"},
+            {"name":"Dynamic DNS Services, Duck DNS"},
             {"name":"AWS","link":"https://aws.amazon.com"},
             {"name":"Google Cloud","link":"https://cloud.google.com"}
         ]
     },
+    {
+        "grouping":"Project Management and Leadership",
+          "skills":[ 
+              {"name":"Managed staff of 12 people and created on-boarding program for 3 external hires."},
+              {"name":"Cultivates a positive and inclusive work environment for staff of all levels."},
+              {"name":"Exceptional leadership and emergency response management during crises."},
+              {"name":"Takes coach-approach and values contributions of all team members."},
+              {"name":"Commends coworkers and staff on meeting goals. Encourages others."}
+          ]
+      }, 
     {
         "grouping":"Environmental Modelling",
             "skills":[ 
