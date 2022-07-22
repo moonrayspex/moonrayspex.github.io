@@ -2,7 +2,8 @@
     {
         "grouping":"Technical Expertise",
         "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-    },{
+    },
+    {
         "grouping":"Computer Languages",
         "skills":[ "Python","SQL","JavaScript","HTML","CSS","JSON APIs"]
     },
@@ -22,6 +23,31 @@
             {"name":"AWS","link":"https://aws.amazon.com"},
             {"name":"Google Cloud","link":"https://cloud.google.com"}
         ]
-    }
+    },
+    {
+        "grouping":"Spatial Analysis",
+          "skills":[ 
+              {"name":"ArcGIS Pro, Spatial Analysis Extension"},
+              {"name":"Multicriteria Decision Analysis"},
+              {"name":"Least-Cost Path Analysis Techniques"},
+              {"name":"Geocoding and Dynamic Segmentation"},
+              {"name":"Network Analysis"},
+              {"name":"Spatial Statistics"}
+          ]
+      },
+    {
+        "grouping":"Remote Sensing",
+          "skills":[ 
+              {"name":"PCI Geomatica / Catalyst"},
+              {"name":"eCongition, Image-Object Based Software"},
+              {"name":"Processing with Machine Learning using PCI's Object Analyst"},
+              {"name":"Orthorectification and Digital Surface Model Extraction from legacy aerial photography"},
+              {"name":"LiDAR Remote Sensing"},
+              {"name":"Principal Component Analysis & Image Fusion Techniques"},
+              {"name":"Image Parallax and Digital Elevation Models"},
+              {"name":"RADAR Inferometry and Remote Sensing"},
+              {"name":"Spectral Indices, Image Histograms and LUTS"}
+          ]
+      }
 ]
   
