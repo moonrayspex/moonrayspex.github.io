@@ -8,13 +8,12 @@
         "skills":[ "Python","SQL","JavaScript","HTML","CSS","JSON APIs"]
     },
     {
-        "grouping":"Platform Development & Administration",
-        "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-    },
-    {
         "grouping":"Data Management",
-        "skills":["PostgreSQL", "FME Workbench", "Oracle SQL Developer", "Relational enterprise database development",
-          {"name":"Microsoft SQL Server","icon":"msql_server"}]
+        "skills":["PostgreSQL", "ETL and Safe's FME Workbench", "Oracle SQL Developer", "Relational Enterprise Database Development",
+          {"name":"Enterprise Geodatabases and Versioning, Replicating, Archiving"}, 
+          {"name":"Manipulating spatial and tabular data with Python"},
+          {"name":"Web GIS Analysis and Administration"}
+        ]
     },
     {
       "grouping":"Cloud Services",
@@ -24,6 +23,15 @@
             {"name":"Google Cloud","link":"https://cloud.google.com"}
         ]
     },
+    {
+        "grouping":"Environmental Modelling",
+            "skills":[ 
+              {"name":"Interpolation Techniques"},
+              {"name":"Geostatistical Surface Modelling"},
+              {"name":"DEMs, TINs, and 3D Visualization"},
+              {"name":"ArcHydro Watershed Analysis, Stream Segmentation"}
+          ]
+      },
     {
         "grouping":"Spatial Analysis",
           "skills":[ 
@@ -47,6 +55,17 @@
               {"name":"Image Parallax and Digital Elevation Models"},
               {"name":"RADAR Inferometry and Remote Sensing"},
               {"name":"Spectral Indices, Image Histograms and LUTS"}
+          ]
+      },
+      {
+        "grouping":"Surveying and CAD Mapping",
+          "skills":[ 
+              {"name":"AutoCAD"},
+              {"name":"Traverse Surveys, Error Calculations with DMS/DD"},
+              {"name":"Azimuths/Bearings, Balancing Angles, Angular Closure, Linear Error of Closure"},
+              {"name":"Trigonometric Levelling"},
+              {"name":"Differential Levelling"},
+              {"name":"GNSS and Surveying Techniques"}
           ]
       }
 ]
