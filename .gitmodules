@@ -6,4 +6,4 @@
 	url = https://gitlab.com/avron/gruvhugo.git
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
-	url = https://github.com/eddiewebb/hugo-resume
+	url = https://github.com/moonrayspex/hugo-resume
