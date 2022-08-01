@@ -12,4 +12,5 @@ sitemap:
   priority : 0.8
 ---
 Three different methods of image analysis using Catalyst (PCI Geomatica): Pansharpened True Colour Composite, SWIR, Standard False Colour Composite.
+
 ![kootenay valley map](/img/KootenayValleyThreeViews_RS.JPG "Image Analysis of Kootenay Valley")
