@@ -2,7 +2,7 @@
 title: "Chiniguchi Waterways Provincial Park Canoe Route Map"
 date: 2022-07-22T20:25:14-04:00
 featured: true
-description: "Canoe route map for navigating Chiniguch Waterways Provincial Park in northern Ontario."
+description: "Canoe route map for navigating Chiniguchi Waterways Provincial Park in northern Ontario."
 tags: ["cartography","ArcGIS Pro","Mapublisher for Adobe Illustrator", "canoe route map"]
 image: "/img/cwpp_map_crop.JPG"
 

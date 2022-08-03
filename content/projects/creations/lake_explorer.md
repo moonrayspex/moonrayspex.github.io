@@ -2,7 +2,7 @@
 title: "Lake Explorer for Peterborough and the Kawarthas"
 date: 2022-07-22T19:25:14-04:00    
 featured: true
-description: "Set of Esri-based website and tools for understanding lake bathymetry and water quality indicators for lakes within Peterborough and the Kawarthas."
+description: "Esri-based website and tools for understanding lake bathymetry and water quality indicators for lakes within Peterborough and the Kawarthas."
 tags: ["cartography","ArcGIS Pro","bathymetry", "3D", "data collection", "Survey123"]
 image: "/img/LakeExplorer1.JPG"
 
