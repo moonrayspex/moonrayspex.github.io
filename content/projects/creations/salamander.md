@@ -11,6 +11,7 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
+
 Ranked habitat analysis using suitable landcover, ideal elevations, and transportation interference in the area between Lindsay and Peterborough, Ontario. 
 Datasets from Geospatial Data Canada, iNaturalist, and SOLRIS.
 Co-collaborator with L. Greidanus.

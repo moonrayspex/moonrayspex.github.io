@@ -14,6 +14,8 @@ sitemap:
 
 
 Map created using Ontario datasets in ArcGIS Pro and Mapublisher for AI.
+
+z
 ![chiniguchi waterways map](/img/cwpp_map_crop.JPG "Chiniguchi Waterways PP Canoe Route Map")
 <img src="/img/cwpp_map_crop.JPG" alt="chiniguchi waterways map" style="height: 400px; width:300px."/>
 

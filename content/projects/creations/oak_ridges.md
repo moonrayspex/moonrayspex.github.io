@@ -11,5 +11,7 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
+
 Supervised classification of orthophotography using PCI Geomatica / Catalyst of the Oak Ridges Morraine area.
+
 ![oak ridges image analysis](/img/supervisedclassification_OakRidges.JPG "Image Analysis of Oak Ridges")
