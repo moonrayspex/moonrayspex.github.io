@@ -18,6 +18,11 @@
             <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showProjects }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+      </li>
+      {{ end }}
       {{ if .Site.Params.showOpenSource }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#open">Open Source</a>
@@ -37,11 +42,6 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
           </li>
-      {{ end }}
-      {{ if .Site.Params.showProjects }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
-      </li>
       {{ end }}
       {{ if .Site.Params.showBlog }}
           <li class="nav-item">
