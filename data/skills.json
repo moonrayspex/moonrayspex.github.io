@@ -27,31 +27,11 @@
     {
         "grouping":"Project Management and Leadership",
           "skills":[ 
-              {"name":"Managed staff of 12 people and created on-boarding program for 3 external hires."},
-              {"name":"Cultivates a positive and inclusive work environment for staff of all levels."},
+              {"name":"Lead staff of 12 people and created on-boarding program for 3 external hires."},
+              {"name":"Cultivated a positive and inclusive work environment for staff of all levels."},
               {"name":"Exceptional leadership and emergency response management during crises."},
-              {"name":"Takes coach-approach and values contributions of all team members."},
-              {"name":"Provides positive feedback and encourages others."}
-          ]
-      }, 
-    {
-        "grouping":"Environmental Modelling",
-            "skills":[ 
-              {"name":"Interpolation Techniques"},
-              {"name":"Geostatistical Surface Modelling"},
-              {"name":"DEMs, TINs, and 3D Visualization"},
-              {"name":"ArcHydro Watershed Analysis, Stream Segmentation"}
-          ]
-      },
-    {
-        "grouping":"Spatial Analysis",
-          "skills":[ 
-              {"name":"ArcGIS Pro, Spatial Analysis Extension"},
-              {"name":"Multicriteria Decision Analysis"},
-              {"name":"Least-Cost Path Analysis Techniques"},
-              {"name":"Geocoding and Dynamic Segmentation"},
-              {"name":"Network Analysis"},
-              {"name":"Spatial Statistics"}
+              {"name":"Leadership with coach-approach and valued contributions of all team members."},
+              {"name":"Provided positive feedback and encouraged others."}
           ]
       },
     {
@@ -67,8 +47,8 @@
               {"name":"RADAR Inferometry and Remote Sensing"},
               {"name":"Spectral Indices, Image Histograms and LUTS"}
           ]
-      },
-      {
+    },
+    {
         "grouping":"Surveying and CAD Mapping",
           "skills":[ 
               {"name":"AutoCAD"},
@@ -78,6 +58,27 @@
               {"name":"Differential Levelling"},
               {"name":"GNSS and Surveying Techniques"}
           ]
-      }
+    }, 
+    {
+        "grouping":"Environmental Modelling",
+            "skills":[ 
+              {"name":"Interpolation Techniques"},
+              {"name":"Geostatistical Surface Modelling"},
+              {"name":"DEMs, TINs, and 3D Visualization"},
+              {"name":"ArcHydro Watershed Analysis, Stream Segmentation"}
+          ]
+    },
+    {
+        "grouping":"Spatial Analysis",
+          "skills":[ 
+              {"name":"ArcGIS Pro, Spatial Analysis Extension"},
+              {"name":"Multicriteria Decision Analysis"},
+              {"name":"Least-Cost Path Analysis Techniques"},
+              {"name":"Geocoding and Dynamic Segmentation"},
+              {"name":"Network Analysis"},
+              {"name":"Spatial Statistics"}
+          ]
+    }
+
 ]
   
