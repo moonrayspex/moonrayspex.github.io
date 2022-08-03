@@ -14,6 +14,8 @@ sitemap:
 
 
 Scope of project is lakes in Peterborough and the Kawarthas. Designed for general and citizen-scientist users.
+Made as part of collaborative final project for GIS program at Fleming College.  
+Teammates include L. Greidanus and K. Jones-McGowan.
 
 
 ![lake explorer image base](/img/LakeExplorer1.JPG "Lake Explorer Interactive Maps")
