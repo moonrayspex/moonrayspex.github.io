@@ -6,7 +6,7 @@ description: "Esri-based website and tools for understanding lake bathymetry and
 tags: ["cartography","ArcGIS Pro","bathymetry", "3D", "data collection", "Survey123"]
 image: "/img/LakeExplorer1.JPG"
 
-fact: "Cats are the best but no one will ever see this."
+fact: ""
 weight: 500
 sitemap:
   priority : 0.8
@@ -14,9 +14,12 @@ sitemap:
 
 
 Scope of project is lakes in Peterborough and the Kawarthas. Designed for general and citizen-scientist users.
-Made as part of collaborative final project for GIS program at Fleming College in partnership with Kawartha Conservation.  
+Made as part of collaborative final project for GIS program at Fleming College in partnership with [Kawartha Conservation](https://www.kawarthaconservation.com/en/index.aspx).  
 Teammates include L. Greidanus and K. Jones-McGowan.
 
+[View Lake Explorer](https://experience.arcgis.com/experience/eede84d872944e15b3cd7f2a3d313ed1/page/About-/)
+
+Images from website:
 
 ![lake explorer image base](/img/LakeExplorer1.JPG "Lake Explorer Interactive Maps")
 
