@@ -1,8 +1,8 @@
 ---
 title: "Lake Explorer for Peterborough and the Kawarthas"
-date: 2022-07-20T20:25:14-04:00
+date: 2022-07-22T19:25:14-04:00    
 featured: true
-description: "Set of Esri-based tools for understanding lake bathymetry and water quality indicators for Kawartha Conservation.  Scope of project is lakes in Peterborough and the Kawarthas. Designed for general and citizen-scientist users."
+description: "Set of Esri-based website and tools for understanding lake bathymetry and water quality indicators for lakes within Peterborough and the Kawarthas."
 tags: ["cartography","ArcGIS Pro","bathymetry", "3D", "data collection", "Survey123"]
 image: "/img/LakeExplorer1.JPG"
 
@@ -14,7 +14,7 @@ sitemap:
 
 
 Scope of project is lakes in Peterborough and the Kawarthas. Designed for general and citizen-scientist users.
-Made as part of collaborative final project for GIS program at Fleming College.  
+Made as part of collaborative final project for GIS program at Fleming College in partnership with Kawartha Conservation.  
 Teammates include L. Greidanus and K. Jones-McGowan.
 
 
