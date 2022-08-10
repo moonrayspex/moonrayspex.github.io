@@ -1,39 +1,56 @@
 [
     {
-        "grouping":"Technical Expertise",
-        "skills":[ "Esri Suite: ArcEnterprise, ArcServer, ArcGIS Pro, ArcGIS Online, Survey123, Experience Builder & Dashboard","ArcGIS APIs for JavaScript","RESTful APIs","SaaS/PaaS/IaaS"]
+        "grouping":"GIS Software",
+        "skills":[ 
+            {"name":"Esri Suite: ArcEnterprise, ArcServer, ArcGIS Pro, ArcGIS Online, Survey123, Experience Builder & Dashboard"},
+            {"name":"Esri products: Survey123, Spatial Analysis and Hydrology add-ons for ArcGIS Pro"},
+            {"name":"Daily use of Visual Studio Code, Powershell, MS Access & Excel, GitHub"},
+            {"name":"Open Source: OpenStreetMaps, Mapbox; learning QGIS and Whitebox"}
+
+        ]
     },
     {
         "grouping":"Computer Languages",
         "skills":[ "Python","SQL","JavaScript","HTML","CSS","JSON APIs"]
     },
     {
-        "grouping":"Data Management",
-        "skills":["PostgreSQL", "ETL and Safe's FME Workbench", "Oracle SQL Developer", "Relational Enterprise Database Development",
+        "grouping":"Teamwork and Communication",
+          "skills":[ 
+              {"name":"Self-starter. Creative problem-solver, analytical thinker who takes initiative."},
+              {"name":"Translate between technical and non-technical project stakeholders."},
+              {"name":"Strong work ethic and integrity. Timely and thorough."},
+              {"name":"Collaborative team member, shares skills and knowledge with others."},
+              {"name":"Cultivates inclusive, positive environment."}
+          ]
+      },
+      {
+        "grouping":"Surveying and CAD",
+          "skills":[ 
+              {"name":"Drafted land survey project with AutoCAD Map 3D from field notes"},
+              {"name":"Comfortable using GPS/GNSS equipment for field data collection"},
+              {"name":"Trigonometric and Differential Levelling"},
+              {"name":"GNSS and Surveying Techniques"},
+              {"name":"Adaptable to all weather conditions"},
+              {"name":"In the process of acquiring UAV / drone basic license"}
+          ]
+    }, 
+    {
+        "grouping":"Database Management and Scripting",
+        "skills":["PostgreSQL", "ETL and Safe's FME Workbench", "Oracle SQL Developer", "Relational Enterprise Database Development / RDBMS",
           {"name":"Enterprise Geodatabases and Versioning, Replicating, Archiving"}, 
-          {"name":"Manipulating spatial and tabular data with Python"},
-          {"name":"Web GIS Analysis and Administration"}
+          {"name":"Automate GIS processes with Python, Model Builder, FME "}
         ]
     },
     {
       "grouping":"Cloud Services",
         "skills":[ 
             {"name":"ArcGIS Server and Portal Services"},
+            {"name":"AWS with ArcGIS Server and Portal"},
             {"name":"Dynamic DNS Services, Duck DNS"},
-            {"name":"AWS","link":"https://aws.amazon.com"},
-            {"name":"Google Cloud","link":"https://cloud.google.com"}
+            {"name":"ArcGIS APIs for JavaScript, REST API"},
+            {"name":"Google Cloud"}
         ]
     },
-    {
-        "grouping":"Project Management and Leadership",
-          "skills":[ 
-              {"name":"Lead staff of 12 people and created on-boarding program for 3 external hires."},
-              {"name":"Cultivated a positive and inclusive work environment for staff of all levels."},
-              {"name":"Exceptional leadership and emergency response management during crises."},
-              {"name":"Leadership with coach-approach and valued contributions of all team members."},
-              {"name":"Provided positive feedback and encouraged others."}
-          ]
-      },
     {
         "grouping":"Remote Sensing",
           "skills":[ 
@@ -49,17 +66,6 @@
           ]
     },
     {
-        "grouping":"Surveying and CAD Mapping",
-          "skills":[ 
-              {"name":"AutoCAD"},
-              {"name":"Traverse Surveys, Error Calculations with DMS/DD"},
-              {"name":"Azimuths/Bearings, Balancing Angles, Angular Closure, Linear Error of Closure"},
-              {"name":"Trigonometric Levelling"},
-              {"name":"Differential Levelling"},
-              {"name":"GNSS and Surveying Techniques"}
-          ]
-    }, 
-    {
         "grouping":"Environmental Modelling",
             "skills":[ 
               {"name":"Interpolation Techniques"},
@@ -72,13 +78,24 @@
         "grouping":"Spatial Analysis",
           "skills":[ 
               {"name":"ArcGIS Pro, Spatial Analysis Extension"},
-              {"name":"Multicriteria Decision Analysis"},
+              {"name":"Applied Spatial Statistics"},
+              {"name":"Multi-Criteria Decision Analysis"},
+              {"name":"OLS Regression"},
               {"name":"Least-Cost Path Analysis Techniques"},
               {"name":"Geocoding and Dynamic Segmentation"},
-              {"name":"Network Analysis"},
-              {"name":"Spatial Statistics"}
+              {"name":"Network Analysis"}
           ]
-    }
+    },
+    {
+        "grouping":"Project Management and Leadership",
+          "skills":[ 
+              {"name":"Led staff of 12 people and created on-boarding program for 3 external hires."},
+              {"name":"Cultivated a positive and inclusive work environment for staff of all levels."},
+              {"name":"Exceptional leadership and emergency response management during crises."},
+              {"name":"Leadership with coach-approach and valued contributions of all team members."},
+              {"name":"Provided positive feedback and encouraged others."}
+          ]
+      }
 
 ]
   
