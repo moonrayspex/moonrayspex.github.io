@@ -1,6 +1,6 @@
 ---
 title: "Modelling Canopy Height Model with LiDAR and Photogrammetric-derived Point Clouds"
-date: 2022-07-22T03:25:14-04:00    
+date: 2022-07-22T22:25:14-04:00    
 featured: true
 description: "Esri-based website and tools for understanding lake bathymetry and water quality indicators for lakes within Peterborough and the Kawarthas."
 tags: ["remote sensing","LiDAR","DSM", "DTM", "PCI Geomatica / Catalyst"]
@@ -20,13 +20,13 @@ Image initially overlayed on standard false colour composite of an orthophotogra
 Figure 1. Below: Bailieboro LiDAR (sensor and date of acquisition) DSM (Digital Surface Model) shown in shaded relief.  
 DSM derived from elevation point cloud layer. 
 Forest, hedge rows and powerlines are prominent.
-![LiDAR digital surface model](/img/LiDAR1.JPG "LiDAR Digital Surface Model")
+![LiDAR digital surface model](/img/LiDAR1.jpg "LiDAR Digital Surface Model")
 
 
 Figure 2. Below: Bailieboro LiDAR DTM (Digital Terrain Model) shown in shaded relief.  
 DTM derived from elevation point cloud layer.   
 DTM depicts terrain undulations with the absence of surface vegetation and human structures.
-![LiDAR Digital terrain model](/img/LiDAR_dtm.JPG "LiDAR Digital Terrain Model")
+![LiDAR Digital terrain model](/img/LiDAR_dtm.jpg "LiDAR Digital Terrain Model")
 
 
 
