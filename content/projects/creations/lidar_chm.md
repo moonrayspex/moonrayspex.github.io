@@ -2,7 +2,7 @@
 title: "Modelling Canopy Height Model with LiDAR and Photogrammetric-derived Point Clouds"
 date: 2022-07-22T22:25:14-04:00    
 featured: true
-description: "Esri-based website and tools for understanding lake bathymetry and water quality indicators for lakes within Peterborough and the Kawarthas."
+description: "Using point cloud data to create a DTM and a DSM in order to calculate canopy height model."
 tags: ["remote sensing","LiDAR","DSM", "DTM", "PCI Geomatica / Catalyst"]
 image: "/img/LiDAR1.JPG"
 
