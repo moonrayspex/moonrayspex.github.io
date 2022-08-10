@@ -4,7 +4,7 @@ date: 2022-07-22T22:25:14-04:00
 featured: true
 description: "Using point cloud data to create a DTM and a DSM in order to calculate canopy height model."
 tags: ["remote sensing","LiDAR","DSM", "DTM", "PCI Geomatica / Catalyst"]
-image: "/img/LiDAR1.JPG"
+image: "/img/LiDAR1.jpg"
 
 fact: ""
 weight: 500
