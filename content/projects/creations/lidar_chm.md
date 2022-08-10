@@ -14,7 +14,7 @@ sitemap:
 
 
 Imagery derived from elevation classified photogrammetric-derived elevation point cloud layer.  
-Source image from Ontario GeoHub of a 1 km 2 area near Bailieboro, Ontario. 
+Source image from Ontario GeoHub of a 1 square kilometer area near Bailieboro, Ontario. 
 Image initially overlayed on standard false colour composite of an orthophotographic image of the same area from 2013 (not shown).
 
 Figure 1. Below: Bailieboro LiDAR (sensor and date of acquisition) DSM (Digital Surface Model) shown in shaded relief.  
