@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Flow Direction Grid"
-date: 2022-07-22T20:25:14-04:00
+date: 2022-07-22T19:24:14-04:00
 featured: true
 description: "Enhanced Flow Direction Grid for Ganaraska Forest. Comparison of drainage lines from ANUDEM interpolated DEM to photogrammetric representation."
 tags: ["Cartography","ArcGIS Pro","ArcHydro", "Hydrology"]
