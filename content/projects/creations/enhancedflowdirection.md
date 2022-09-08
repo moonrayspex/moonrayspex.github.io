@@ -13,7 +13,7 @@ sitemap:
 ---
 
 
-Map created using Ontario datasets in ArcGIS Pro and Mapublisher for AI.
+Cartographic depiction and analysis created using Ontario datasets in ArcGIS Pro with ArcHydro extension.
 
 
 ![Drainage Lines](/img/EFDG_Ganaraska.JPG "Comparison of Drainage Lines")
